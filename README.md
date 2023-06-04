@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on freelance web application project<br>I am currently learning Application Security/DevSecOps<br>I am looking to collaborate on any cyber security related projects<br>How to reach me: arifabdullayev2003@gmail.com
+I am currently working as SOC analyst<br>I am currently learning Penetration testing as well as web programming<br>I am looking to collaborate on any cyber security related projects<br>How to reach me: arifabdullayev2003@gmail.com
 
 
 ## 🌐 Socials:
